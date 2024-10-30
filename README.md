@@ -1,2 +1,2 @@
 # snack-app
-A simple and interactive snack app
+A simple and interactive snack web-app
